@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0A184e8248d0a876f2201CdB4Db235a645768Cf9",
+  "SCAN_LINK": "https://etherscan.io/token/0x0a184e8248d0a876f2201cdb4db235a645768cf9",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "8BIT Champions",
+  "SYMBOL": "CHAMPIONS",
+  "MAX_SUPPLY": 8880,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/8bit-champions",
+  "SHOW_BACKGROUND": true
+}
